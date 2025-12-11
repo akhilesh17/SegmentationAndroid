@@ -1,4 +1,4 @@
-package com.example.objectdetection
+package com.example.segmentation
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -25,7 +25,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat
-import com.example.objectdetection.ui.theme.ObjectDetectionTheme
+import com.example.segmentation.ui.theme.ObjectDetectionTheme
 
 class MainActivity : ComponentActivity() {
 

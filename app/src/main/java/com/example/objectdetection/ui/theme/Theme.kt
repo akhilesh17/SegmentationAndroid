@@ -1,4 +1,4 @@
-package com.example.objectdetection.ui.theme
+package com.example.segmentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

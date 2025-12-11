@@ -1,4 +1,4 @@
-package com.example.objectdetection
+package com.example.segmentation
 
 import android.annotation.SuppressLint
 import android.graphics.Bitmap

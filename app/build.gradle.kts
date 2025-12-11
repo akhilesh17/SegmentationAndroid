@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.objectdetection"
+    namespace = "com.example.segmentation"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.objectdetection"
+        applicationId = "com.example.segmentation"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

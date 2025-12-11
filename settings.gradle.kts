@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Objectdetection"
+rootProject.name = "Segmentation"
 include(":app")

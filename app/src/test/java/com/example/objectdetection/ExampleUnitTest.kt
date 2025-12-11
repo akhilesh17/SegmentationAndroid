@@ -1,4 +1,4 @@
-package com.example.objectdetection
+package com.example.segmentation
 
 import org.junit.Test
 

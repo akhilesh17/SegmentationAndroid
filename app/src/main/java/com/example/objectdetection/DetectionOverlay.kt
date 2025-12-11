@@ -1,4 +1,4 @@
-package com.example.objectdetection
+package com.example.segmentation
 
 import android.graphics.Bitmap
 import androidx.compose.foundation.Canvas

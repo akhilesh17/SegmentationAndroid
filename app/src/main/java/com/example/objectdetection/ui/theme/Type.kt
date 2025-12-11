@@ -1,4 +1,4 @@
-package com.example.objectdetection.ui.theme
+package com.example.segmentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
